@@ -142,14 +142,6 @@
 
 }
 
-@media (min-width: 100px) and (max-width: 399px) {
-.theme_bg
-{
-	background-image:url(../images/app851port.jpg) ;
-	background-repeat:no-repeat;
-	background-size:cover;	
-}
-}
 
 
 
