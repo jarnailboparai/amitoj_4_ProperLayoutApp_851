@@ -147,11 +147,11 @@
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: radial-gradient(center top , circle cover , rgb(2, 200, 19) 1% , rgb(78, 211, 12) 44% , rgb(17, 140, 0) 67% , rgb(37, 179, 16) 86% , rgb(29, 122, 11) 97%);
-background: -o-radial-gradient(center top , circle cover , rgb(2, 200, 19) 1% , rgb(78, 211, 12) 44% , rgb(17, 140, 0) 67% , rgb(37, 179, 16) 86% , rgb(29, 122, 11) 97%);
-background: -ms-radial-gradient(center top , circle cover , rgb(2, 200, 19) 1% , rgb(78, 211, 12) 44% , rgb(17, 140, 0) 67% , rgb(37, 179, 16) 86% , rgb(29, 122, 11) 97%);
-background: -moz-radial-gradient(center top , circle cover , rgb(2, 200, 19) 1% , rgb(78, 211, 12) 44% , rgb(17, 140, 0) 67% , rgb(37, 179, 16) 86% , rgb(29, 122, 11) 97%);
-background: -webkit-radial-gradient(center top , circle cover , rgb(2, 200, 19) 1% , rgb(78, 211, 12) 44% , rgb(17, 140, 0) 67% , rgb(37, 179, 16) 86% , rgb(29, 122, 11) 97%);
+	background: radial-gradient(center top , circle cover , rgb(2, 200, 19) 1% , rgb(54, 216, 12) 18% , rgb(80, 225, 7) 44% , rgb(17, 140, 0) 67% , rgb(37, 179, 16) 86% , rgb(29, 122, 11) 97%);
+background: -o-radial-gradient(center top , circle cover , rgb(2, 200, 19) 1% , rgb(54, 216, 12) 18% , rgb(80, 225, 7) 44% , rgb(17, 140, 0) 67% , rgb(37, 179, 16) 86% , rgb(29, 122, 11) 97%);
+background: -ms-radial-gradient(center top , circle cover , rgb(2, 200, 19) 1% , rgb(54, 216, 12) 18% , rgb(80, 225, 7) 44% , rgb(17, 140, 0) 67% , rgb(37, 179, 16) 86% , rgb(29, 122, 11) 97%);
+background: -moz-radial-gradient(center top , circle cover , rgb(2, 200, 19) 1% , rgb(54, 216, 12) 18% , rgb(80, 225, 7) 44% , rgb(17, 140, 0) 67% , rgb(37, 179, 16) 86% , rgb(29, 122, 11) 97%);
+background: -webkit-radial-gradient(center top , circle cover , rgb(2, 200, 19) 1% , rgb(54, 216, 12) 18% , rgb(80, 225, 7) 44% , rgb(17, 140, 0) 67% , rgb(37, 179, 16) 86% , rgb(29, 122, 11) 97%);
 }
 
 
